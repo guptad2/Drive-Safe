@@ -11,7 +11,7 @@ In Fact, According to statistics by transport accident commision, being driving 
 
 ## Solution
 
-The drive safe is an application on your mobile phone linked with your wearable device that will detect unusual driving behaviour and alerts you if you are unable to drive. The app looks at your driving pattern and looks at your heart rate to calculate your driving stats and calculate if you are fit to drive. 
+The drive safe will be an application on your mobile phone linked with your wearable device that will detect unusual driving behaviour and alerts you if you are unable to drive. The app looks at your driving pattern and looks at your heart rate to calculate your driving stats and calculate if you are fit to drive. 
 
 
 
